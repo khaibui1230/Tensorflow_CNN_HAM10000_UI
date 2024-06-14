@@ -35,3 +35,14 @@ Future Considerations:
 Implement confidence scores alongside predicted classes.
 Enhance the UI with additional widgets or functionalities.
 Explore saving prediction results to a file or database.
+
+
+
+
+
+
+
+"Learning neural network on different numbers of pictures in each class(like class 1 =8000 images and other 6 classes ~100 images each) is bad because your neural network learn to predict only one class. It leads to wrong evaluate metrics. In other way if you create a lot new pictures from "Data generator" you increase learning time. Maybe if you create more epoch you can get more accurate model. But as i see the validation accuracy decreas by second epoch."
+Get more in : https://github.com/PawelKinczyk/TensorFlow-Neural-network-on-HAM10000-dataset/tree/main 
+https://www.youtube.com/watch?v=fyZ9Rxpoz2I
+
