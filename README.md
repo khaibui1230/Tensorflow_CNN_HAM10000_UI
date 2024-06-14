@@ -1,5 +1,5 @@
 # Tensorflow_CNN_HAM10000_UI
-The application basic by using PyQT5 and Tensorflow to create and detect skincancer. By using the dataset ham 10000
+The application basic by using PyQT5 and Tensorflow to create and detect skincancer. By using the dataset ham 10000 : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 This Python script implements a simple image classification application using PyQt5 for the graphical user interface (GUI) and TensorFlow for the machine learning model.
 
